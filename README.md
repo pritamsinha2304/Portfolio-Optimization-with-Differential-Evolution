@@ -6,4 +6,4 @@ The algorithm is based on - https://www.researchgate.net/publication/227242104_D
 
 The model types is referred from - https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1193&context=rhumj
 
-<img src="portfolio-optimization-kenneth.png"></img>
+<img src="portfolio_optimization_kenneth.png"></img>
