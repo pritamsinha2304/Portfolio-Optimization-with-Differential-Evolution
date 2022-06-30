@@ -5,3 +5,5 @@ This is an implementation of portfolio optimization using differential evolution
 The algorithm is based on - https://www.researchgate.net/publication/227242104_Differential_Evolution_-_A_Simple_and_Efficient_Heuristic_for_Global_Optimization_over_Continuous_Spaces
 
 The model types is referred from - https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1193&context=rhumj
+
+<img src="portfolio-optimization-kenneth.png"></img>
